@@ -1,2 +1,2 @@
 # SumeiraAkiiuz.github.io
-my Portfoilio
+my Portfolio
